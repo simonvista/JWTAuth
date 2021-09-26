@@ -1,0 +1,2 @@
+post header format: Authorization: Bearer <access_token>
+After login successfully, JWT issues access_token for post purpose
